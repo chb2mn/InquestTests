@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>MalwareDomainList updates</title>
+<link>http://www.malwaredomainlist.com/mdl.php</link>
+<description>MalwareDomainList update. This feed shows the latest urls which have been added to our list.</description>
+<language>en</language>
+<docs>http://www.rssboard.org/rss-specification</docs>
+<generator>RSS Feed Engine</generator>
+<managingEditor>admin@malwaredomainlist.com (admin)</managingEditor>
+<webMaster>admin@malwaredomainlist.com (admin)</webMaster>
+<atom:link href="http://www.malwaredomainlist.com/hostslist/mdl.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>kassabravo.com (2016/03/31_10:01)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=kassabravo.com</link>
+<description>Host: kassabravo.com/, IP address: 67.196.85.119, ASN: 8001, Country: US, Description: compromised site leads to Angler EK</description>
+<guid isPermaLink="false">d87f5739890711828b254ec5b6431420</guid>
+</item>
+<item>
+<title>www.actiagroup.com (2016/03/31_13:34)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=www.actiagroup.com</link>
+<description>Host: www.actiagroup.com/, IP address: 141.0.187.5, ASN: 30741, Country: FR, Description: compromised site leads to Angler EK</description>
+<guid isPermaLink="false">1968a0f2723920d311477bac3ff1ea39</guid>
+</item>
+<item>
+<title>ru-optovik.ru (2016/03/30_09:16)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=ru-optovik.ru</link>
+<description>Host: ru-optovik.ru/j9ssl, IP address: 87.236.19.30, ASN: 198610, Country: RU, Description: Locky ransomware</description>
+<guid isPermaLink="false">55de72106575580aaecad96bef8a2246</guid>
+</item>
+<item>
+<title>milanobro.com (2016/03/30_09:16)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=milanobro.com</link>
+<description>Host: milanobro.com/, IP address: 64.139.147.163, ASN: 13645, Country: US, Description: compromised site leads to Angler EK</description>
+<guid isPermaLink="false">97820bdf9d57836da5e260019ada6845</guid>
+</item>
+<item>
+<title>93.170.131.108 (2016/03/30_09:16)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=93.170.131.108</link>
+<description>Host: -, IP address: 93.170.131.108/submit.php, ASN: 57494, Country: CZ, Description: Locky c&amp;c</description>
+<guid isPermaLink="false">147638d010158b757e53e77f60c32b9a</guid>
+</item>
+<item>
+<title>51.254.240.45 (2016/03/30_09:16)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=51.254.240.45</link>
+<description>Host: -, IP address: 51.254.240.45/submit.php, ASN: 16276, Country: FR, Description: Locky c&amp;c</description>
+<guid isPermaLink="false">1fbabbcb8c8ed0eca9155c83a4b30e10</guid>
+</item>
+<item>
+<title>creditfinancebank.ru (2016/03/30_12:54)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=creditfinancebank.ru</link>
+<description>Host: creditfinancebank.ru/45t3443r3, IP address: 92.53.112.82, ASN: 9123, Country: RU, Description: Locky ransomware</description>
+<guid isPermaLink="false">85e4430fb3b8d5565aca4f2605c08a2e</guid>
+</item>
+<item>
+<title>buygrocery.nz (2016/03/30_12:54)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=buygrocery.nz</link>
+<description>Host: buygrocery.nz/l7dsp, IP address: 192.185.157.121, ASN: 20013, Country: US, Description: Locky ransomware</description>
+<guid isPermaLink="false">f028b1c35842845ac5f86a187484c0d5</guid>
+</item>
+<item>
+<title>importkauf.ch (2016/03/30_12:54)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=importkauf.ch</link>
+<description>Host: importkauf.ch/45t3443r3, IP address: 195.191.240.16, ASN: 13030, Country: CH, Description: Locky ransomware</description>
+<guid isPermaLink="false">d4ec2130a41e7790e02462f992aa4e46</guid>
+</item>
+<item>
+<title>pasticceriabonci.it (2016/03/29_19:32)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=pasticceriabonci.it</link>
+<description>Host: pasticceriabonci.it/m1psa, IP address: 46.37.7.42, ASN: 31034, Country: IT, Description: Locky ransomware</description>
+<guid isPermaLink="false">8596f33fde08efb9b829ae7dc31d1acb</guid>
+</item>
+<item>
+<title>83.217.25.239 (2016/03/29_19:32)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=83.217.25.239</link>
+<description>Host: -, IP address: 83.217.25.239/submit.php, ASN: 200161, Country: RU, Description: Locky c&amp;c</description>
+<guid isPermaLink="false">3849773158c9b29b7af41fa02e118b68</guid>
+</item>
+<item>
+<title>185.75.46.4 (2016/03/29_19:32)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=185.75.46.4</link>
+<description>Host: -, IP address: 185.75.46.4/submit.php, ASN: 62222, Country: RU, Description: Locky c&amp;c</description>
+<guid isPermaLink="false">8d9a1d895cdcffa4b6f35e915857ab06</guid>
+</item>
+<item>
+<title>refindsexy.com (2016/03/29_19:32)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=refindsexy.com</link>
+<description>Host: refindsexy.com/i8eps, IP address: 192.80.146.30, ASN: 18978, Country: US, Description: Locky ransomware</description>
+<guid isPermaLink="false">5a83a0d9b1a607f4ec4f6420820e8bc1</guid>
+</item>
+<item>
+<title>5.135.76.18 (2016/03/29_19:32)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=5.135.76.18</link>
+<description>Host: -, IP address: 5.135.76.18/submit.php, ASN: 16276, Country: FR, Description: Locky c&amp;c</description>
+<guid isPermaLink="false">1538711bda2bf1cec04418ee827d274e</guid>
+</item>
+<item>
+<title>aztechnologies.co.uk (2016/03/29_19:32)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=aztechnologies.co.uk</link>
+<description>Host: aztechnologies.co.uk/sdj3oa, IP address: 109.199.116.245, ASN: 32475, Country: BG, Description: Locky ransomware</description>
+<guid isPermaLink="false">2122a8e1092a3f8be89559aecc3f3473</guid>
+</item>
+<item>
+<title>www.deco-dessert.com (2016/03/29_19:32)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=www.deco-dessert.com</link>
+<description>Host: www.deco-dessert.com/k3dua, IP address: 5.135.121.44, ASN: 16276, Country: FR, Description: Locky ransomware</description>
+<guid isPermaLink="false">92cc82e37f9de600fa8100fe4e1f7634</guid>
+</item>
+<item>
+<title>tbde.com.vn (2016/03/29_19:51)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=tbde.com.vn</link>
+<description>Host: tbde.com.vn/ty43ff333.exe, IP address: 162.243.4.79, ASN: 62567, Country: US, Description: Locky ransomware</description>
+<guid isPermaLink="false">ce6298d96d1538482e1ae1671b5348b8</guid>
+</item>
+<item>
+<title>it-mall.eu (2016/03/29_19:51)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=it-mall.eu</link>
+<description>Host: it-mall.eu/j3usia, IP address: 95.87.7.112, ASN: 38924, Country: BG, Description: Locky ransomware</description>
+<guid isPermaLink="false">8a1fb8729665748bf7a7d8c7637694df</guid>
+</item>
+<item>
+<title>2biking.com (2016/03/29_19:51)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=2biking.com</link>
+<description>Host: 2biking.com/k4isfa, IP address: 192.254.235.178, ASN: 46606, Country: US, Description: Locky ransomware</description>
+<guid isPermaLink="false">92f26f07cb9a1961f1a8e8ca1091ca1b</guid>
+</item>
+<item>
+<title>portal.ofar.com.br (2016/03/29_19:51)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=portal.ofar.com.br</link>
+<description>Host: portal.ofar.com.br/o4psaf, IP address: 186.202.127.36, ASN: 27715, Country: BR, Description: Locky ransomware</description>
+<guid isPermaLink="false">4988d75dbf662619cdb20bce33d94f30</guid>
+</item>
+<item>
+<title>84.19.170.249 (2016/03/29_19:52)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=84.19.170.249</link>
+<description>Host: -, IP address: 84.19.170.249/submit.php, ASN: 31103, Country: DE, Description: Locky c&amp;c</description>
+<guid isPermaLink="false">84091ad6515e42309d875bb313c12bd1</guid>
+</item>
+<item>
+<title>jeansowghbqq.com (2016/03/29_20:54)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=jeansowghbqq.com</link>
+<description>Host: jeansowghbqq.com/23.exe, IP address: 78.135.108.94, ASN: 42910, Country: TR, Description: Teslacrypt</description>
+<guid isPermaLink="false">81ba33c2f32585a5957407a8982b2ba9</guid>
+</item>
+<item>
+<title>holishit.in (2016/03/29_20:56)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=holishit.in</link>
+<description>Host: holishit.in/wp-content/plugins/wpclef/assets/src/sass/neat/grid/binarystings.php, IP address: 160.153.63.4, ASN: 26496, Country: US, Description: Teslacrypt c&amp;c</description>
+<guid isPermaLink="false">ce3bd028ced45b3e0d02d69e4246b847</guid>
+</item>
+<item>
+<title>vtc360.com (2016/03/29_20:56)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=vtc360.com</link>
+<description>Host: vtc360.com/wp-content/themes/vtc360_maxf3d/ReduxFramework/ReduxCore/inc/extensions/wbc_importer/demo-data/Demo2/binarystings.php, IP address: 107.180.34.199, ASN: 26496, Country: US, Description: Teslacrypt c&amp;c</description>
+<guid isPermaLink="false">d4a7dc559c3a92c0d8128b3a6cdcf9fe</guid>
+</item>
+<item>
+<title>grosirkecantikan.com (2016/03/29_20:56)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=grosirkecantikan.com</link>
+<description>Host: grosirkecantikan.com/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/binarystings.php, IP address: 192.185.51.87, ASN: 20013, Country: US, Description: Teslacrypt c&amp;c</description>
+<guid isPermaLink="false">c471d54df8d7efb1d03ca9d86654f8b3</guid>
+</item>
+<item>
+<title>eddenya.com (2016/03/25_15:05)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=eddenya.com</link>
+<description>Host: eddenya.com/, IP address: 213.186.33.169, ASN: 16276, Country: FR, Description: compromised site leads to Angler EK</description>
+<guid isPermaLink="false">5e7439e975307b854bc27f935f3e5a91</guid>
+</item>
+<item>
+<title>zt.tim-taxi.com (2016/03/18_06:58)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=zt.tim-taxi.com</link>
+<description>Host: zt.tim-taxi.com/login.php, IP address: 198.12.67.179, ASN: 36352, Country: US, Description: MasterCard phishing</description>
+<guid isPermaLink="false">75b57ff60876dd21f00c2eb15fbdbe94</guid>
+</item>
+<item>
+<title>104.245.239.7 (2016/03/18_09:37)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=104.245.239.7</link>
+<description>Host: -, IP address: 104.245.239.7/~earlysym/vr.php, ASN: 62638, Country: US, Description: WellsFargo phishing destination</description>
+<guid isPermaLink="false">3ec5f956bb1e6b79b2ee13bf4861b701</guid>
+</item>
+<item>
+<title>marialorena.com.br (2016/03/18_14:13)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=marialorena.com.br</link>
+<description>Host: marialorena.com.br/wp-content/plugins/hello123/8888ytc6r.exe, IP address: 200.219.253.23, ASN: 16397, Country: BR, Description: trojan</description>
+<guid isPermaLink="false">0aa5b8c39879f44bf2f36e68cdb8ba81</guid>
+</item>
+<item>
+<title>naairah.com (2016/03/18_17:49)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=naairah.com</link>
+<description>Host: naairah.com/wp-content/plugins/hello123/j7u7h54h5.exe, IP address: 149.202.201.228, ASN: 16276, Country: FR, Description: Locky ransomware</description>
+<guid isPermaLink="false">4b9c48175ed00e3fae006d6f7986e4a5</guid>
+</item>
+<item>
+<title>backup.terra5llc.com (2016/03/18_17:49)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=backup.terra5llc.com</link>
+<description>Host: backup.terra5llc.com/takemeto/heaven.php, IP address: 31.210.107.165, ASN: 197328, Country: TR, Description: trojan Dridex</description>
+<guid isPermaLink="false">4e8227ce5f14f9f47bed34ecc9758a07</guid>
+</item>
+</channel>
+</rss>
