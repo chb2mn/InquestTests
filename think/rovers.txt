@@ -1,0 +1,26 @@
+so assume two rovers at random locations with identical code. The goal is to get them to find one another (I'm assuming that they rovers need to actually meet, but this algorithm could also be used to figure out how far they are from one another)
+
+The idea behind the algorithm is to oscilate with increasing magnitude until you find tracks. Once a rover finds these tracks, continue following them and it will eventually run into the other rover (that is still oscilating). If both rovers are running at the same speed, then we can assume that when one rover finds the amount of tracks, that the other rover is exactly as far as we have traveled, doubled, +-1.
+
+Improvements: we are only finding 1 new space every time we turn around, so doing something like oscilating with quadratic or exponential magnitude (As opposed to linear) would allows us to explore more new space every time
+
+distance = 1
+wander:
+    while true:
+        while i < distance:
+            move_left()
+            if check_tracks:
+                goto trackleft
+        distance++
+        while i < distance:
+            move_right()
+            if check_tracks:
+                goto trackright
+
+trackright:
+    while true:
+        move_right()
+
+trackleft:
+    while true:
+        move_left()
